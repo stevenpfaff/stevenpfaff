@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+}
+
+h1, h2 {
+    padding: 50px;
+    margin: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+a {
+    background-color: aqua;
+    color: black
+}
