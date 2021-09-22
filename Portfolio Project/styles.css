@@ -1,16 +1,28 @@
 body {
-    background-color: blue;
+    background-color: turquoise;
 }
 
 h1, h2 {
     padding: 50px;
-    margin: 50px;
+    margin: 20px;
     border-width: 5px;
     border-style: solid;
-    border-color: aqua;
+    border-color: navy;
+    text-align: center;
+    color:navy;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+
+h3 {
+    padding: 10px;
+    margin: 10px;
+    text-align:center;
+    color: navy;
+    font-size: xx-large;
 }
 
 a {
-    background-color: aqua;
-    color: black
+    background-color: turquoise;
+    color: navy;
+    text-align:center;
 }
